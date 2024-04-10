@@ -1,2 +1,2 @@
-# nuno-project
+# tea-project
 Tea project
